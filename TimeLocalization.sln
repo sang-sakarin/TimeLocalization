@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeLocalization", "TimeLocalization\TimeLocalization.csproj", "{AC62AB64-672F-4113-A50E-F5612CCABC81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeLocalizationConsole", "TimeLocalizationConsole\TimeLocalizationConsole.csproj", "{B1537B87-E99F-4A39-84EA-B322E3C89C7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC62AB64-672F-4113-A50E-F5612CCABC81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC62AB64-672F-4113-A50E-F5612CCABC81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC62AB64-672F-4113-A50E-F5612CCABC81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC62AB64-672F-4113-A50E-F5612CCABC81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1537B87-E99F-4A39-84EA-B322E3C89C7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1537B87-E99F-4A39-84EA-B322E3C89C7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1537B87-E99F-4A39-84EA-B322E3C89C7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1537B87-E99F-4A39-84EA-B322E3C89C7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
