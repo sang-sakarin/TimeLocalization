@@ -2,6 +2,11 @@
 
     <PropertyGroup>
         <TargetFramework>net5.0</TargetFramework>
+        <PackageId>TimeLocalization</PackageId>
+        <Version>1.0.1</Version>
+        <Authors>Sakarin.S</Authors>
+        <Description>The library for convert datetime to time ago in c#</Description>
+        <IsPackable>true</IsPackable>
     </PropertyGroup>
 
 </Project>

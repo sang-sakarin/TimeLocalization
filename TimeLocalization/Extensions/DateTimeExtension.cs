@@ -11,6 +11,11 @@ namespace TimeLocalization.Extensions
             return dateTime.AsTimeAgo(CultureInfo.CurrentUICulture);
         }
 
+        public static string AsTimeAgo(this DateTime dateTime, DateTime comparisonBase)
+        {
+            return dateTime.AsTimeAgo(comparisonBase, CultureInfo.CurrentUICulture);
+        }
+
         public static string AsTimeAgo(this DateTime dateTime, CultureInfo cultureInfo)
         {
             return dateTime.AsTimeAgo(DateTime.UtcNow, cultureInfo);
