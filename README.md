@@ -18,10 +18,10 @@ Inspiration [Github](https://github.com/NickStrupat/TimeAgo)
 
 NuGet package listed on [nuget.org](https://www.nuget.org/packages/TimeLocalization)
 
-    Install-Package TimeLocalization -Version 1.0.1
+    Install-Package TimeLocalization -Version 1.0.2
 or
     
-    dotnet add package TimeLocalization --version 1.0.1
+    dotnet add package TimeLocalization --version 1.0.2
 
 ## Usage <a name="usage"></a>
 
@@ -35,7 +35,7 @@ or
     dateTime.AsTimeAgo(DateTime.UtcNow.AddMinutes(9), culture) // 9 นาทีที่แล้ว
 
 
-## References <a name="format"></a>
+## Format Supported <a name="format"></a>
 
 - just now
 - 5 seconds ago
@@ -69,6 +69,8 @@ or
 
 ## Languages supported <a name="languages"></a>
 
+- Japan
+- Spanish
 - English
 - Thai
 
