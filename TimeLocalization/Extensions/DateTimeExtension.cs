@@ -80,6 +80,10 @@ namespace TimeLocalization.Extensions
         {
             switch (cultureInfo.TwoLetterISOLanguageName)
             {
+                case "es": // Spanish
+                    return new Localization<EsLocalization>();
+                case "ja": // Japan
+                    return new Localization<JaLocalization>();
                 case "th": // Thai
                     return new Localization<ThLocalization>();
                 default: // English
