@@ -73,6 +73,7 @@ or
 - Catalan
 - Danish
 - German
+- Greek
 - Japan
 - English
 - Spanish
