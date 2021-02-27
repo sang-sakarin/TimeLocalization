@@ -86,6 +86,8 @@ namespace TimeLocalization.Extensions
                     return new Localization<CaLocalization>();
                 case "da": // Danish
                     return new Localization<DaLocalization>();
+                case "de": // German
+                    return new Localization<DeLocalization>();
                 case "es": // Spanish
                     return new Localization<EsLocalization>();
                 case "ja": // Japan

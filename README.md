@@ -72,6 +72,7 @@ or
 - Bulgarian
 - Catalan
 - Danish
+- German
 - Japan
 - English
 - Spanish
