@@ -18,10 +18,10 @@ Inspiration [Github](https://github.com/NickStrupat/TimeAgo)
 
 NuGet package listed on [nuget.org](https://www.nuget.org/packages/TimeLocalization)
 
-    Install-Package TimeLocalization -Version 1.0.2
+    Install-Package TimeLocalization
 or
     
-    dotnet add package TimeLocalization --version 1.0.2
+    dotnet add package TimeLocalization
 
 ## Usage <a name="usage"></a>
 
@@ -77,6 +77,7 @@ or
 - Greek
 - Japan
 - English
+- Finnish
 - Spanish
 - Thai
 

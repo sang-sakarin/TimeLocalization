@@ -94,6 +94,8 @@ namespace TimeLocalization.Extensions
                     return new Localization<EuLocalization>();
                 case "es": // Spanish
                     return new Localization<EsLocalization>();
+                case "fi": // Finnish
+                    return new Localization<FiLocalization>();
                 case "ja": // Japan
                     return new Localization<JaLocalization>();
                 case "th": // Thai
