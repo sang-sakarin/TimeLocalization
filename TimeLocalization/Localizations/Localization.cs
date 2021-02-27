@@ -12,7 +12,7 @@ namespace TimeLocalization.Localizations
             MinutesAgo = localization.MinutesAgo;
             HourAgo = localization.HourAgo;
             HoursAgo = localization.HoursAgo;
-            DayAgo = localization.DaysAgo;
+            DayAgo = localization.DayAgo;
             DaysAgo = localization.DaysAgo;
             WeekAgo = localization.WeekAgo;
             WeeksAgo = localization.WeeksAgo;

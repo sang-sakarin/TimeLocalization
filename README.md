@@ -69,6 +69,7 @@ or
 
 ## Languages supported <a name="languages"></a>
 
+- Basque
 - Bulgarian
 - Catalan
 - Danish

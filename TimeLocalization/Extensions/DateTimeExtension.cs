@@ -90,6 +90,8 @@ namespace TimeLocalization.Extensions
                     return new Localization<DeLocalization>();
                 case "el": // Greek
                     return new Localization<ElLocalization>();
+                case "eu": // Basque
+                    return new Localization<EuLocalization>();
                 case "es": // Spanish
                     return new Localization<EsLocalization>();
                 case "ja": // Japan
