@@ -69,8 +69,11 @@ or
 
 ## Languages supported <a name="languages"></a>
 
+- Bulgarian
+- Catalan
+- Danish
 - Japan
-- Spanish
 - English
+- Spanish
 - Thai
 
