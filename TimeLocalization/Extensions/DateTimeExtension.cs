@@ -78,7 +78,9 @@ namespace TimeLocalization.Extensions
 
         private static ILocalization Localization(CultureInfo cultureInfo)
         {
-            switch (cultureInfo.TwoLetterISOLanguageName)
+            var culture = cultureInfo.Name[..2];
+            
+            switch (culture)
             {
                 case "bg": // Bulgarian
                     return new Localization<BgLocalization>();
