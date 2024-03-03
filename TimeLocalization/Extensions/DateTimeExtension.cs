@@ -82,6 +82,8 @@ namespace TimeLocalization.Extensions
             
             switch (culture)
             {
+                case "ru": // Russian
+                    return new Localization<RuLocalization>();
                 case "bg": // Bulgarian
                     return new Localization<BgLocalization>();
                 case "ca": // Catalan

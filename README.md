@@ -69,14 +69,15 @@ or
 
 ## Languages supported <a name="languages"></a>
 
-- Basque
+- English
+- Russian
 - Bulgarian
+- Basque
 - Catalan
 - Danish
 - German
 - Greek
 - Japan
-- English
 - Finnish
 - Spanish
 - Thai
